@@ -1,0 +1,5 @@
+{
+  "name": "AarogyaAI: Healthcare Assistant",
+  "description": "An AI-powered healthcare prototype for India, providing symptom analysis, medical report summarization, and healthcare facility location services to bridge access gaps and improve quality of care, with a focus on localization and scalability.",
+  "requestFramePermissions": []
+}
